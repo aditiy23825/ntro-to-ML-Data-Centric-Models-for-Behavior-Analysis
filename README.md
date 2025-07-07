@@ -1,1 +1,1 @@
-# ntro-to-ML-Data-Centric-Models-for-Behavior-Analysis
+# Intro-to-ML-Data-Centric-Models-for-Behavior-Analysis
